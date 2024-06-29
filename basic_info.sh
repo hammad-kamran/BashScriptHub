@@ -1,6 +1,7 @@
 #!/bin/bash
 
-# Name
+# System Information Script
+# Author: Hammad Kamran
 NAME="Hammad Kamran"
 
 # Get CPU information
